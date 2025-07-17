@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+  color: black;
+}
+.info{
+ margin:auto;
+ position:relative;
+ margin-top:10%;
+ width:80%;
+ height:100%;
+ text-align:center;
+ border-style:solid;
+}
+.linebreak{
+  color:blue;
+}
+
+a
+{
+ text-decoration:none
+}
