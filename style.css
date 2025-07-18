@@ -24,7 +24,7 @@ a
 .bottom {
 position: relative;
 top:10%;
-left:20%;
+margin-left:20%;
 margin:auto;
 
 }
