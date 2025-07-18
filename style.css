@@ -1,7 +1,9 @@
+html {
+  overflow-x:hidden;
+}
 body {
   background-color: white;
   color: black;
-  overflow-x:hidden;
 }
 .info{
  margin:auto;
