@@ -23,8 +23,8 @@ a
 }
 .bottom {
 position: absolute;
-bottom:10%;
-margin-left:20%;
+bottom:5%;
+left:20%;
 margin:auto;
-color:red;
+color:blue;
 }
