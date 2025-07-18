@@ -10,6 +10,8 @@ body {
  height:100%;
  text-align:center;
  border-style:solid;
+ padding-left:5%;
+  padding-right:5%;
 }
 .linebreak{
   color:blue;
