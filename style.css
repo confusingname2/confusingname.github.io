@@ -22,7 +22,7 @@ a
  text-decoration:none
 }
 .bottom {
-position: relative;
+position: absolute;
 top:10%;
 margin-left:20%;
 margin:auto;
