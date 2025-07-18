@@ -23,7 +23,7 @@ a
 }
 .bottom {
 position: relative;
-bottom:-4%;
+top:10%;
 margin:auto;
 
 }
