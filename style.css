@@ -21,3 +21,9 @@ a
 {
  text-decoration:none
 }
+.bottom {
+position: relative;
+bottom:0%;
+margin:auto;
+
+}
