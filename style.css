@@ -35,8 +35,12 @@ color:black;
 }
 
 @media only screen and (min-width: 600px) {
-  body {background-color: pink;}
+  body {background-color: white;}
   .info{
     width:50%;
+  }
+  .bottom{
+bottom:0%;
+
   }
 }
