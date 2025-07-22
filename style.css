@@ -5,6 +5,7 @@ body {
   background-color: white;
   color: black;
    overflow-x:hidden;
+   height:100%;
 }
 .info{
  margin:auto;
@@ -35,4 +36,7 @@ color:black;
 
 @media only screen and (min-width: 600px) {
   body {background-color: pink;}
+  .info{
+    width:50%;
+  }
 }
