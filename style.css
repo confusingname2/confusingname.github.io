@@ -37,7 +37,9 @@ color:black;
 @media only screen and (min-width: 600px) {
   body {background-color: white;}
   .info{
-    width:50%;
+    width:40%;
+    left: 10%;
+    
   }
   .bottom{
 bottom:0%;
